@@ -1,4 +1,5 @@
-### Hi there 👋
+##### heya, my name is ech0
+im a coding nolife, and that's about it
 
 <!--
 **ech0devv/ech0devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
